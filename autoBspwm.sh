@@ -45,7 +45,7 @@ function main(){
 	read -p "Option: " option
 	echo -e "${end}"
 
-	if [ "$opiton" == "1" ]; then
+	if [ "$option" == "1" ]; then
 	kali
 	fi
 
