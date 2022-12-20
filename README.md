@@ -1,2 +1,8 @@
-# autoBspwm
-S4vitar's desktop enviroment automatic
+#Installation 
+
+```bash
+git clone https://github.com/barambolas/autoBspwm.git
+cd autoBspwm
+chmod +x autoBspwm.sh
+./autoBspwm.sh
+```
