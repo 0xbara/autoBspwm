@@ -123,7 +123,6 @@ function kali(){
 	sleep +1
 
 	echo -e "${red}[!] Attention, a pop-up window with the kitty terminal will appear, please configure your user $(echo $USER) and root${end}"
-	sleep 5
 
 	kitty
 	quest
