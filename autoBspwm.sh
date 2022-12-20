@@ -97,6 +97,7 @@ function kali(){
 	sudo usermod --shell /usr/bin/zsh root
 
 	usermod --shell /usr/bin/zsh $USER
+	export SHELL=/usr/bin/zsh
 
 	sudo rm -rf ~/.config/nvim 2>/dev/null
 	sudo rm -rf ~/.config/kitty 2>/dev/null
@@ -141,7 +142,8 @@ function debian(){
         sudo usermod --shell /usr/bin/zsh root
   
         usermod --shell /usr/bin/zsh $USER
-  
+  	export SHELL=/usr/bin/zsh
+	
         sudo rm -rf ~/.config/nvim 2>/dev/null
 	sudo rm -rf ~/.config/kitty 2>/dev/null
   
@@ -186,7 +188,8 @@ function parrot(){
         sudo usermod --shell /usr/bin/zsh root
   
         usermod --shell /usr/bin/zsh $USER
-  
+  	export SHELL=/usr/bin/zsh
+	
         sudo rm -rf ~/.config/nvim 2>/dev/null
         sudo rm -rf ~/.config/kitty 2>/dev/null
   
