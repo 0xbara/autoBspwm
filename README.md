@@ -1,6 +1,6 @@
 # Enviroment
 
-![screenshot](./files/Screenshot at 2022-12-20 18-40-07.png)
+![screenshot](https://github.com/barambolas/autoBspwm/blob/main/files/Screenshot%20at%202022-12-20%2018-40-07.png?raw=true)
 # Installation 
 
 ```
