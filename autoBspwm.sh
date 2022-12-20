@@ -79,7 +79,7 @@ function kali(){
 
 	mv files/kitty ~/.config/
 	mv files/nvim ~/.config/
-	cp -r ~/.config/nvim /root/.config
+	sudo cp -r ~/.config/nvim /root/.config
 	sudo mv files/HackFonts/* /usr/share/fonts
 
 	sudo git clone --depth=1 https://github.com/romkatv/powerlevel10k.git /root/powerlevel10k
