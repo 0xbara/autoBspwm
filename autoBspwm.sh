@@ -328,8 +328,7 @@ function bspwm(){
 	sudo chmod +x /bin/settarget
 	sudo chmod +x /bin/cleartarget
 
-	chown -R root:root /usr/local/share/zsh/site-functions/_bspc
-	chown -R root:root /usr/local/share/zsh/site-functions
+	sudo compaudit | xargs chmod g-w
 
 	echo -e "${blue}[*] Enviroment ready!${end}"
 	sleep 1
