@@ -12,3 +12,5 @@ chmod +x autoBspwm.sh
 
 ./autoBspwm.sh
 ```
+
+# Guide
