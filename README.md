@@ -82,7 +82,7 @@ Use command `ifconfig` if you don't know your ethernet name.
 
 ### Modify Enviroment Hotkeys
 
-Config File: /home/$USER/.config/sxhkd/sxhkdrc
+Config File: **/home/$USER/.config/sxhkd/sxhkdrc**
 
 ### Terminal
 
