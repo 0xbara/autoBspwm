@@ -109,4 +109,4 @@ Root File: **/root/.p10k.zsh**
 
 ### ZSH
 
-Config File: /home/$USER/.zshrc
+Config File: **/home/$USER/.zshrc**
