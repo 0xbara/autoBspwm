@@ -20,44 +20,44 @@ chmod +x autoBspwm.sh
 <kbd>❖</kbd> + <kbd>1,2,3,4...</kbd> : Focus to the given desktop.    
 <kbd>❖</kbd> + <kbd>Shift</kbd> + <kbd>1,2,3,4...</kbd> : Send to the given desktop.    
 <kbd>❖</kbd> + <kbd>D</kbd> : Program launcher.    
-<kbd>❖</kbd> + <kbd>ESC</kbd> : Make sxhkd reload its configuration files    
+<kbd>❖</kbd> + <kbd>ESC</kbd> : Make sxhkd reload its configuration files.    
 
 ### Bspwm
 
-<kbd>❖</kbd> + <kbd>Alt</kbd> + <kbd>(q,r)</kbd> : quit/restart bspwm    
-<kbd>❖</kbd> + <kbd>W</kbd> : close and kill    
-<kbd>❖</kbd> + <kbd>M</kbd> : alternate between the tiled and monocle layout    
-<kbd>❖</kbd> + <kbd>Y</kbd> : send the newes marked node to the newest preselected node    
-<kbd>❖</kbd> + <kbd>G</kbd> : swap the current node and the biggest window    
+<kbd>❖</kbd> + <kbd>Alt</kbd> + <kbd>(q,r)</kbd> : Quit or Restart bspwm.    
+<kbd>❖</kbd> + <kbd>W</kbd> : Close and Kill.    
+<kbd>❖</kbd> + <kbd>M</kbd> : Alternate between the Tiled and Monocle layout    
+<kbd>❖</kbd> + <kbd>Y</kbd> : Send the newest marked Node to the newest preselected Node.    
+<kbd>❖</kbd> + <kbd>G</kbd> : Swap the current Node and the biggest window.    
 
 ### Preselect
 
-<kbd>❖</kbd> + <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>(🠐 🠑 🠒 🠓)</kbd> : preselect the direction    
-<kbd>❖</kbd>s + <kbd>Ctrl</kbd> + <kbd>(1-9)</kbd> : preselect the ratio    
-<kbd>❖</kbd> + <kbd>Ctrl</kbd> + <kbd>Space</kbd> : cancel the preselection for the focused node    
-<kbd>❖</kbd> + <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Space</kbd> : cancel the preselection for the focused desktop    
+<kbd>❖</kbd> + <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>(🠐 🠑 🠒 🠓)</kbd> : Preselect the direction.    
+<kbd>❖</kbd>s + <kbd>Ctrl</kbd> + <kbd>(1-9)</kbd> : Preselect the ratio.    
+<kbd>❖</kbd> + <kbd>Ctrl</kbd> + <kbd>Space</kbd> : Cancel the preselection for the focused Node.    
+<kbd>❖</kbd> + <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Space</kbd> : Cancel the preselection for the focused desktop.    
 
 ### Move/Resize
 
-<kbd>❖</kbd> + <kbd>Ctrl</kbd> + <kbd>(🠐 🠑 🠒 🠓)</kbd> : move a floating window    
-<kbd>❖</kbd> + <kbd>Alt</kbd> + <kbd>(🠐 🠑 🠒 🠓)</kbd> : custom a move/resize    
+<kbd>❖</kbd> + <kbd>Ctrl</kbd> + <kbd>(🠐 🠑 🠒 🠓)</kbd> : Move a floating window.    
+<kbd>❖</kbd> + <kbd>Alt</kbd> + <kbd>(🠐 🠑 🠒 🠓)</kbd> : Custom a move/resize.    
 
 ### Custom Launchers App
 
-<kbd>❖</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> : firefox    
-<kbd>❖</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd> : burpsuite    
+<kbd>❖</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> : Firefox.    
+<kbd>❖</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd> : Burpsuite.    
 
 # Terminal Hotkeys
 
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> = open terminal window    
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd> = close terminal window    
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> = change window disposition    
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd> = open terminal tab    
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>(🠐 🠑 🠒 🠓)</kbd> = change terminal tab    
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> = change tab name    
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>(, or .)</kbd> = change tab order    
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> = Resize window    
-<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Left Click</kbd> = select text    
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd> = open hex help    
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> = look for URL's    
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> : Open Terminal window.    
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd> : Close Terminal window.    
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> : Change window disposition.    
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd> : Open terminal tab.    
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>(🠐 🠑 🠒 🠓)</kbd> : Change Terminal tab.    
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> : Change tab name.    
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>(, or .)</kbd> : Change tab order.    
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> : Resize window.    
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Left Click</kbd> : Select text.    
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd> : Open hex help.    
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> : Look for URL's.    
 
