@@ -59,5 +59,31 @@ chmod +x autoBspwm.sh
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> : Resize window.    
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Left Click</kbd> : Select text.    
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd> : Open hex help.    
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> : Look for URL's.    
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> : Look for URL's.
+<kbd>Ctrl</kbd> + <kbd>L</kbd> : Clean Terminal window.
 
+# Guide
+
+### Target IP
+
+```
+  settarget (TARGET IP)
+```
+```
+  cleartarget
+```
+
+### Ethernet Status
+
+Config File: /home/$USER/.config/bin/ethernet_status.sh < Change eth0 to your own status.
+
+Use command `ifconfig` if you don't know your ethernet name.
+
+### Modify Enviroment Hotkeys
+
+Config File: /home/$USER/.config/sxhkd/sxhkdrc
+
+### Terminal
+
+Config File: /home/$USER/.config/kitty/kitty.conf
+For more information [Click Here](https://sw.kovidgoyal.net/kitty/conf/).
