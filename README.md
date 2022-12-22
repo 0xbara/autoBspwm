@@ -75,7 +75,7 @@ chmod +x autoBspwm.sh
 
 ### Ethernet Status
 
-Config File: **/home/$USER/.config/bin/ethernet_status.sh**
+Config File: **/home/$USER/.config/bin/ethernet_status.sh**    
 Change **eth0** to your own ethernet status name.
 
 Use command `ifconfig` if you don't know your ethernet name.
@@ -86,5 +86,5 @@ Config File: /home/$USER/.config/sxhkd/sxhkdrc
 
 ### Terminal
 
-Config File: **/home/$USER/.config/kitty/kitty.conf**
+Config File: **/home/$USER/.config/kitty/kitty.conf**    
 For more information [Click Here](https://sw.kovidgoyal.net/kitty/conf/).
