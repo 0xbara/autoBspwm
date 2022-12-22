@@ -13,7 +13,7 @@ chmod +x autoBspwm.sh
 ./autoBspwm.sh
 ```
 
-# Guide
+# Enviroment Hotkeys
 ### Independent Hotkeys
 
 <kbd>❖</kbd> + <kbd>Enter</kbd> : Open terminal (kitty).    
@@ -46,3 +46,5 @@ chmod +x autoBspwm.sh
 
 <kbd>❖</kbd> + <kbd>shift</kbd> + <kbd>f</kbd> : firefox    
 <kbd>❖</kbd> + <kbd>shift</kbd> + <kbd>b</kbd> : burpsuite    
+
+# Terminal Hotkeys
