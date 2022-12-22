@@ -97,7 +97,7 @@ zsh compinit: insecure files, run compaudit for list.
 Ignore insecure files and continue [y] or abort compinit [n]?
 ```
 Execute the following lines:
-`compaudit` and it will give you a list of directories it thinks are unsecure
-`sudo chown -R  $USER:root target_directory`
-`sudo chmod -R 755 target_directory`
+`compaudit` And it will give you a list of directories it thinks are unsecure.    
+`sudo chown -R  $USER:root target_directory`    
+`sudo chmod -R 755 target_directory`    
 
