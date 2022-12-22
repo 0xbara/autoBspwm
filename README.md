@@ -54,7 +54,7 @@ chmod +x autoBspwm.sh
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> = change window disposition    
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd> = open terminal tab    
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>(🠐 🠑 🠒 🠓)</kbd> = change terminal tab    
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt<kbd> + <kbd>T</kbd> = change tab name    
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> = change tab name    
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>(, or .)</kbd> = change tab order    
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> = Resize window    
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Left Click</kbd> = select text    
