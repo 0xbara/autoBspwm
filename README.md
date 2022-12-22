@@ -17,8 +17,8 @@ chmod +x autoBspwm.sh
 ### Independent
 
 <kbd>❖</kbd> + <kbd>Enter</kbd> : Open terminal (kitty).    
-<kbd>❖</kbd> + <kbd>1,2,3,4...</kbd> : Focus to the given desktop.    
-<kbd>❖</kbd> + <kbd>Shift</kbd> + <kbd>1,2,3,4...</kbd> : Send to the given desktop.    
+<kbd>❖</kbd> + <kbd>(1,2,3,4...)</kbd> : Focus to the given desktop.    
+<kbd>❖</kbd> + <kbd>Shift</kbd> + <kbd>(1,2,3,4...)</kbd> : Send to the given desktop.    
 <kbd>❖</kbd> + <kbd>D</kbd> : Program launcher.    
 <kbd>❖</kbd> + <kbd>ESC</kbd> : Make sxhkd reload its configuration files.    
 
@@ -39,8 +39,8 @@ chmod +x autoBspwm.sh
 
 ### Move/Resize
 
-<kbd>❖</kbd> + <kbd>Ctrl</kbd> + <kbd>(🠐 🠑 🠒 🠓)</kbd> : Move a floating window.    
-<kbd>❖</kbd> + <kbd>Alt</kbd> + <kbd>(🠐 🠑 🠒 🠓)</kbd> : Custom a move/resize.    
+<kbd>❖</kbd> + <kbd>Shift</kbd> + <kbd>(🠐 🠑 🠒 🠓)</kbd> : Move a floating window.    
+<kbd>❖</kbd> + <kbd>Ctrl</kbd> + <kbd>(1,2,3,4...)</kbd> : Custom a move/resize.    
 
 ### Custom Launchers App
 
