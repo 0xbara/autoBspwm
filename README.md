@@ -88,3 +88,16 @@ Config File: /home/$USER/.config/sxhkd/sxhkdrc
 
 Config File: **/home/$USER/.config/kitty/kitty.conf**    
 For more information [Click Here](https://sw.kovidgoyal.net/kitty/conf/).
+
+### Powerlevel 10k
+
+If you have this error:
+```
+zsh compinit: insecure files, run compaudit for list.
+Ignore insecure files and continue [y] or abort compinit [n]?
+```
+Execute the following lines:
+`compaudit` and it will give you a list of directories it thinks are unsecure
+`sudo chown -R  $USER:root target_directory`
+`sudo chmod -R 755 target_directory`
+
