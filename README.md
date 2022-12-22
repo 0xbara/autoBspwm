@@ -103,5 +103,10 @@ Execute the following lines:
 `sudo chown -R  $USER:root target_directory`    
 `sudo chmod -R 755 target_directory`    
     
-Config User File: **/home/$USER/.p10k.zsh**    
-Config Root File: **/root/.p10k.zsh**
+Config Files:    
+User File: **/home/$USER/.p10k.zsh**      
+Root File: **/root/.p10k.zsh**
+
+### ZSH
+
+Config File: /home/$USER/.zshrc
