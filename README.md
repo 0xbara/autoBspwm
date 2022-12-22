@@ -95,8 +95,10 @@ If you have this error:
 ```
 zsh compinit: insecure files, run compaudit for list.
 Ignore insecure files and continue [y] or abort compinit [n]?
+
+Type: Y
 ```
-Execute the following lines:
+Execute the following lines:    
 `compaudit` And it will give you a list of directories it thinks are unsecure.    
 `sudo chown -R  $USER:root target_directory`    
 `sudo chmod -R 755 target_directory`    
