@@ -102,4 +102,6 @@ Execute the following lines:
 `compaudit` And it will give you a list of directories it thinks are unsecure.    
 `sudo chown -R  $USER:root target_directory`    
 `sudo chmod -R 755 target_directory`    
-
+    
+Config User File: **/home/$USER/.p10k.zsh**    
+Config Root File: **/root/.p10k.zsh**
