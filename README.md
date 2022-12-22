@@ -14,6 +14,7 @@ chmod +x autoBspwm.sh
 ```
 
 # Guide
+### Independent Hotkeys
 
 <kbd>❖</kbd> + <kbd>Enter</kbd> : Open terminal (kitty).    
 <kbd>❖</kbd> + <kbd>1,2,3,4...</kbd> : Focus to the given desktop.    
