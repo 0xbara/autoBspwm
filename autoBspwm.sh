@@ -13,7 +13,7 @@ function banner(){
 	echo -e "${red}"
 	echo -e "┌─┐┬ ┬┌┬┐┌─┐┌┐ ┌─┐┌─┐┬ ┬┌┬┐"
 	echo -e "├─┤│ │ │ │ │├┴┐└─┐├─┘││││││"
-	echo -e "┴ ┴└─┘ ┴ └─┘└─┘└─┘┴  └┴┘┴ ┴ (by barambolas)"
+	echo -e "┴ ┴└─┘ ┴ └─┘└─┘└─┘┴  └┴┘┴ ┴ (by 0xbara)"
 }
 
 function main(){
